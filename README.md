@@ -5,7 +5,7 @@ The approach is fast and has a low computational burden, as it uses geometric co
 
 ## Demonstration
 
-The attached video for the paper submission containing some demonstrations can be found at this [link](https://alumnisssup-my.sharepoint.com/:v:/g/personal/salvatore_davella_santannapisa_it/EftsA_sm4BZGtCoJxYS4ibkBciQU978i5vEPslh3Ys_pOA?e=mndTAx).
+The attached video for the paper submission containing some demonstrations can be found at this [link](https://alumnisssup-my.sharepoint.com/:v:/g/personal/salvatore_davella_santannapisa_it/EaKrt8B7q9ZGkHClwXbR_GsBrqH0DnDGa6jKms-B-Ky37w?e=aUUlBg).
 
 ## License
 Distributed under the GNU License. See LICENSE for more information.
